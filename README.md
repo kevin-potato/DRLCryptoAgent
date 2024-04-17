@@ -6,13 +6,13 @@ This folder contains all the code and files to run this project, as well as the 
 
 The overall structure of the project:
 
-![structure](D:\Y4\FYP\s2\structure.png)
+![structure](structure.png)
 
 
 
 The structure of the model:
 
-![model structure](D:\Y4\FYP\s2\model structure.png)
+![model structure](model structure.png)
 
 
 
