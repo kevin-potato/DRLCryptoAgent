@@ -12,7 +12,7 @@ The overall structure of the project:
 
 The structure of the model:
 
-![model structure](model structure.png)
+![model](model_structure.png)
 
 
 
